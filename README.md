@@ -15,4 +15,16 @@ untuk menampilkan informasi buku.
   dimana dinyatakan lulus bila nilai akhirnya sama dengan 60 keatas. Dan ada pula method status
   yang digunakan untuk menampilkan status lulus atau tidaknya pelajar tersebut.
   ~~~
+  # Source Code
+  1. Latihan
   
+  [Buku.java](https://github.com/Erlyanad/Tugas-Asistensi-2/blob/master/TugasAsistensi2/Buku.java)
+  
+  [BukuMain.java](https://github.com/Erlyanad/Tugas-Asistensi-2/blob/master/TugasAsistensi2/BukuMain.java)
+  
+  2. Tugas
+  
+  [Pelajar.java](https://github.com/Erlyanad/Tugas-Asistensi-2/blob/master/TugasAsistensi2/Pelajar.java)
+  
+  [PelajarMain.java](https://github.com/Erlyanad/Tugas-Asistensi-2/blob/master/TugasAsistensi2/PelajarMain.java)
+ 
